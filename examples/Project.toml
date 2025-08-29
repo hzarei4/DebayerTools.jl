@@ -1,0 +1,13 @@
+[deps]
+ColorTypes = "3da002f7-5984-5a60-b8a6-cbb66c0b333f"
+ColorVectorSpace = "c3611d14-8923-5661-9e6a-0046d554d3a4"
+DebayerTools = "47adc050-84d2-4ed3-a5ec-c8a329405196"
+EasyFITS = "a977f4a2-36a7-4172-89e7-19c2726f82e5"
+FourierTools = "b18b359b-aebc-45ac-a139-9c0ccbb2871e"
+Glob = "c27321d9-0574-5035-807b-f59d2c89b15c"
+ImageContrastAdjustment = "f332f351-ec65-5f6a-b3d1-319c6670881a"
+ImageMorphology = "787d08f9-d448-5407-9aad-5290dd7ab264"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+IndexFunArrays = "613c443e-d742-454e-bfc6-1d7f8dd76566"
+NDTools = "98581153-e998-4eef-8d0d-5ec2c052313d"
+View5D = "90d841e0-6953-4e90-9f3a-43681da8e949"
